@@ -1,7 +1,7 @@
 var config = {
 
 	// Your site title (format: page_title - site_title)
-	site_title: 'Raneto Docs',
+	site_title: '參考資源(alpha version)',
 
 	// The base URL of your site (can use %base_url% in Markdown files)
 	base_url: '',
