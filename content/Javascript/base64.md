@@ -1,12 +1,12 @@
 /*
-	Title:Base64 Encode Decode in Node.js
+Title: Base64 Encode Decode in Node.js
 */
 
 ## Reference:
 
 * [Wiki](http://zh.wikipedia.org/wiki/Base64)	
 * [StackOverflow](http://stackoverflow.com/questions/6182315/how-to-do-base64-encoding-in-node-js)
-* [Node.js api doc]http://nodejs.org/docs/latest/api/buffer.html
+* [Node.js api doc](http://nodejs.org/docs/latest/api/buffer.html)
 
 <br>
 
